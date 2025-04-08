@@ -41,4 +41,14 @@
 </div>
 
 
+## 🌐 Let's Connect
+
+<div align="center">
+
+| [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/himanshu-sahu-53909224b/) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/himanshusahu-07) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='Website' height='40'>](myporfolio) | [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg' alt='Kaggle' height='40'>](https://www.kaggle.com/himanshusahu07) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='LeetCode' height='40'>](https://leetcode.com/u/himanshu_7_7/) | [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg' alt='HackerRank' height='40'>](https://www.kaggle.com/himanshusahu07)|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+
+</div>
+
+
 
