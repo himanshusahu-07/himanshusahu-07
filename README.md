@@ -13,9 +13,9 @@
 
 <!--- Github Stats -->
 
-<h1 align="centert" > 📊 Stats</h1>
+<h1 align="center" > 📊 Stats</h1>
 
-<div align="left">
+<div align="center">
   
 [![Himnashu GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=himanshusahu-07&show_icons=true&theme=midnight-purple&bg_color=00000000&border_color=00000000#gh-dark-mode-only)](https://github.com/himanshusahu-07/github-readme-stats#gh-dark-mode-only)
 [![Himanshu GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=himanshusahu-07&show_icons=true&theme=catppuccin_latte&bg_color=00000000&border_color=00000000#gh-light-mode-only)](https://github.com/himanshusahu-07/github-readme-stats#gh-light-mode-only)
