@@ -28,7 +28,7 @@
 <!--- Tech Stack Array -->
 
 ## 💻 Tech Stack 
-<div align="right">
+<div align="center">
   
 [<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40">](https://seaborn.pydata.org/)
 
