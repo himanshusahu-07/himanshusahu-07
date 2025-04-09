@@ -14,7 +14,7 @@
 </div>
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=himanshusahu-07&theme=gruvbox">
-    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no_bg=true" alt="ashmeet07" />
+    <img src="https://github-profile-trophy.vercel.app/?username=himanshusahu-07&no_bg=true" alt="ashmeet07" />
   </a>
 </p>
 
