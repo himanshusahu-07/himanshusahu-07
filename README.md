@@ -12,12 +12,12 @@
   
   ![](https://komarev.com/ghpvc/?username=himanshusahu-07&color=blueviolet)
   
-</div>
+### 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=himanshusahu-07&theme=gruvbox">
-    <img src="https://github-profile-trophy.vercel.app/?username=himanshusahu-07&no_bg=true" alt="himanshusahu-07" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshusahu-07" alt="himanshusahu-07 trophies"/>
 </p>
+
+
 
 <!--- Github Stats -->
 
