@@ -1,5 +1,6 @@
 ## Hi , Himanshu Sahu Here 🖐! 
 
+<h2 align=center>TechQuanta Co-Founder || Data Science Enthusiasts</h2>
 
 <div align=center>
 
