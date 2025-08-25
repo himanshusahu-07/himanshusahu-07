@@ -31,6 +31,8 @@
 [![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himanshusahu-07&theme=transparent&utcOffset=5.30#gh-dark-mode-only)](https://github.com/ashmeet07/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshusahu-07&theme=dark&exclude=html,CSS,Jupyter%20Notebook&v=1#gh-dark-mode-only)](https://github.com/himanshusahu-07/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshusahu-07&theme=transparent&exclude=html,CSS,Jupyter%20Notebook&v=1#gh-light-mode-only)](https://github.com/himanshusahu-07/github-readme-stats#gh-light-mode-only)
+[![Top Langs by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusahu-07&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only)](https://github.com/himanshusahu-07/github-readme-stats)  
+
 </div>
 
 
