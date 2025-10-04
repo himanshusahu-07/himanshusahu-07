@@ -1,9 +1,5 @@
 ## Hi , Himanshu Sahu Here 🖐! 
 
-<div align="right">
-  <br>
-<img src="https://github.com/user-attachments/assets/950fea18-882f-4f92-b33b-6a0c02adc140" alt="opensource 2025" width="120" height="250">
-</div>
 
 <h2 align=center>TechQuanta Co-Founder || Data Science Enthusiasts</h2>
 
@@ -13,9 +9,16 @@
 
 </div>
 
+<div align="left">
+  <br>
+<img src="https://github.com/user-attachments/assets/950fea18-882f-4f92-b33b-6a0c02adc140" alt="opensource 2025" width="120" height="250">
+</div>
+
 <div align="left"> 
   
   ![](https://komarev.com/ghpvc/?username=himanshusahu-07&color=blueviolet)
+  
+</div>
   
 ### 🏆 GitHub Trophies
 <p align="center">
