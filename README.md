@@ -21,8 +21,10 @@
   
 </div>
 
-
-<h2 align=center>TechQuanta Co-Founder || Data Science Enthusiasts</h2>
+<div align=center>
+<a href="https://techquanta.tech">
+  <h2 align=center><img src="https://github-avatar-frame-api.onrender.com/api/framed-avatar/himanshusahu-07?theme=flamingo&size=4&canvas=dark&shape=rect&radius=20" alt="avatar-api">TechQuanta Co-Founder || Data Science Enthusiasts || Content Creator</h2>
+</a>
 
 
 I am a Computer Science graduate driven by a deep interest in software development, data-driven problem-solving, and emerging technologies. I enjoy transforming ideas into efficient solutions through clean, logical code. With a mindset of continuous learning and innovation, I aim to contribute to impactful projects that blend creativity and technology.
