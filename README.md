@@ -31,7 +31,7 @@ I am a Computer Science graduate driven by a deep interest in software developme
 
 <!--- Github Stats -->
 
-<h1 align="center" > 📊 Stats</h1>
+<h1 align="right" > 📊 Stats</h1>
 
 <div align="center">
   
