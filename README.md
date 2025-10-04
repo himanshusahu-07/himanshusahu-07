@@ -1,31 +1,28 @@
 ## Hi , Himanshu Sahu Here 🖐! 
 
 
-<h2 align=center>TechQuanta Co-Founder || Data Science Enthusiasts</h2>
-
-<div align=center>
 
 
-
-</div>
-
-<div align="left">
-  <br>
-<img src="https://github.com/user-attachments/assets/950fea18-882f-4f92-b33b-6a0c02adc140" alt="opensource 2025" width="120" height="250">
-</div>
-
-<div align="left"> 
-  
-  ![](https://komarev.com/ghpvc/?username=himanshusahu-07&color=blueviolet)
-  
-</div>
-  
 ### 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=himanshusahu-07" alt="himanshusahu-07 trophies"/>
 </p>
 
 
+<div align="right">
+  <br>
+<img src="https://github.com/user-attachments/assets/950fea18-882f-4f92-b33b-6a0c02adc140" alt="opensource 2025" width="120" height="250">
+</div>
+
+<div align="right"> 
+  
+  ![](https://komarev.com/ghpvc/?username=himanshusahu-07&color=blueviolet)
+  
+</div>
+
+
+<h2 align=center>TechQuanta Co-Founder || Data Science Enthusiasts</h2>
 
 <!--- Github Stats -->
 
@@ -47,6 +44,7 @@
 <!--- Tech Stack Array -->
 
 ## 💻 Tech Stack 
+
 <div align="center">
 
 [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" alt="Android" width="40" height="40">](https://developer.android.com)  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40">](https://aws.amazon.com)  [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/atom.png" alt="C++" width="40" height="40">](https://www.w3schools.com/cpp/)  [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="CSS3" width="40" height="40">](https://www.w3schools.com/css/)  [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" alt="Django" width="40" height="40">](https://www.djangoproject.com/)  [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Git" width="40" height="40">](https://git-scm.com/)  [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="Hadoop" width="40" height="40">](https://hadoop.apache.org/)  [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" width="40" height="40">](https://hive.apache.org/)  [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/scala.png" alt="Scala" width="40" height="40">](https://www.w3.org/html/) 
