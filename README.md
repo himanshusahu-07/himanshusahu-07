@@ -4,7 +4,7 @@
 
 <div align=center>
 
-<img src="https://github.com/user-attachments/assets/b6dff4cc-f0bf-408e-9caf-ff6123c3c192" alt="Himanshu Banner" height=350 >
+
 
 </div>
 
@@ -32,7 +32,6 @@
 [![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshusahu-07&theme=dark&exclude=html,CSS,Jupyter%20Notebook&v=1#gh-dark-mode-only)](https://github.com/himanshusahu-07/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshusahu-07&theme=transparent&exclude=html,CSS,Jupyter%20Notebook&v=1#gh-light-mode-only)](https://github.com/himanshusahu-07/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusahu-07&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only)](https://github.com/himanshusahu-07/github-readme-stats)  
 
 </div>
 
