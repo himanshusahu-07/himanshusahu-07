@@ -24,6 +24,11 @@
 
 <h2 align=center>TechQuanta Co-Founder || Data Science Enthusiasts</h2>
 
+
+I am a Computer Science graduate driven by a deep interest in software development, data-driven problem-solving, and emerging technologies. I enjoy transforming ideas into efficient solutions through clean, logical code. With a mindset of continuous learning and innovation, I aim to contribute to impactful projects that blend creativity and technology.
+
+
+
 <!--- Github Stats -->
 
 <h1 align="center" > 📊 Stats</h1>
