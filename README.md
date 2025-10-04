@@ -37,7 +37,6 @@ I am a Computer Science graduate driven by a deep interest in software developme
   
 [![Himnashu GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=himanshusahu-07&show_icons=true&theme=midnight-purple&bg_color=00000000&border_color=00000000#gh-dark-mode-only)](https://github.com/himanshusahu-07/github-readme-stats#gh-dark-mode-only)
 [![Himanshu GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=himanshusahu-07&show_icons=true&theme=catppuccin_latte&bg_color=00000000&border_color=00000000#gh-light-mode-only)](https://github.com/himanshusahu-07/github-readme-stats#gh-light-mode-only)
-
 [![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshusahu-07&theme=dark&exclude=html,CSS,Jupyter%20Notebook&v=1#gh-dark-mode-only)](https://github.com/himanshusahu-07/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshusahu-07&theme=transparent&exclude=html,CSS,Jupyter%20Notebook&v=1#gh-light-mode-only)](https://github.com/himanshusahu-07/github-readme-stats#gh-light-mode-only)
 
